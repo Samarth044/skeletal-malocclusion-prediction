@@ -1,0 +1,141 @@
+ssm_id	dna_change	protein_change	type	consequence	num_ssm_affected_cases	num_OTX1_cases	ssm_affected_cases_percentage	num_gdc_ssm_affected_cases	num_gdc_ssm_cases	gdc_ssm_affected_cases_percentage	vep_impact	sift_impact	sift_score	polyphen_impact	polyphen_score
+cfa38943-23c0-5053-a216-4e85de38eb15	chr2:g.63054151C>T	OTX1 R68W	Substitution	Missense	4	2853	0.14	4	17075	0.02	MODERATE	deleterious	0.0	probably_damaging	1.0
+1c4d6d6c-a225-51c8-9278-1756937e40d1	chr2:g.63054080C>T	OTX1 T44I	Substitution	Missense	2	2853	0.07	2	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+2fc3cb44-ceaa-546c-b80d-47b82edd29d6	chr2:g.63056163C>T	OTX1 Y304=	Substitution	Synonymous	2	2853	0.07	2	17075	0.01	LOW				
+392d9865-b802-53cd-ab24-ac9e7d6b2bb1	chr2:g.63055862C>T	OTX1 S204L	Substitution	Missense	2	2853	0.07	2	17075	0.01	MODERATE	deleterious	0.01	probably_damaging	0.968
+4ade47c2-01c3-54e7-8e0c-94034b0b4da5	chr2:g.63056169C>A	OTX1 G306=	Substitution	Synonymous	2	2853	0.07	2	17075	0.01	LOW				
+64126a5e-1298-5a01-953f-aadbaaffabe7	chr2:g.63055985G>A	OTX1 G245D	Substitution	Missense	2	2853	0.07	2	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+6e9ad7ad-0856-51ea-8079-32a4176d0201	chr2:g.63055877C>T	OTX1 S209F	Substitution	Missense	2	2853	0.07	2	17075	0.01	MODERATE	tolerated	0.12	probably_damaging	0.951
+71f29ef7-8a59-515d-bc93-adcd7482046e	chr2:g.63055661C>T	OTX1 S137L	Substitution	Missense	2	2853	0.07	2	17075	0.01	MODERATE	deleterious	0.02	possibly_damaging	0.885
+b54cebf0-726a-5350-925f-ef9b67a038f0	chr2:g.63056299C>T	OTX1 R350W	Substitution	Missense	2	2853	0.07	2	17075	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.898
+bd74afb1-0f40-5dfb-9ad3-2d780b0a299e	chr2:g.63055554C>T	OTX1 S101=	Substitution	Synonymous	2	2853	0.07	2	17075	0.01	LOW				
+f22c1af1-1fe6-5c62-9af6-08da6b9788e2	chr2:g.63055614C>T	OTX1 S121=	Substitution	Synonymous	2	2853	0.07	2	17075	0.01	LOW				
+01487f78-5817-5aea-84fa-7541d2ae3958	chr2:g.63055639C>T	OTX1 P130S	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.04	benign	0.166
+036d3d9a-f774-5f3c-9819-a8eb7571a43d	chr2:g.63054102C>T	OTX1 D51=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+06fd08ea-387d-5cb2-867b-2b24f376b304	chr2:g.63056009C>T	OTX1 A253V	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.02	benign	0.169
+0829fb9b-4afe-567e-913f-a09430d4b761	chr2:g.63055817C>T	OTX1 A189V	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.41	benign	0.005
+086696dd-cdaf-5d5d-adfb-0f438ecefaa1	chr2:g.63056240C>G	OTX1 A330G	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.01	benign	0.054
+09897f85-7755-5023-a34d-ad7913086588	chr2:g.63055755G>A	OTX1 L168=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+0ac968f6-3922-5946-b747-70178e4009e2	chr2:g.63055787C>T	OTX1 P179L	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.995
+0c4f01af-4f75-5038-821c-9db3923c1ede	chr2:g.63055643C>A	OTX1 A131D	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.16	benign	0.401
+0cba94c3-53e7-5252-ae8a-8d8e4c6be2d7	chr2:g.63055833G>A	OTX1 P194=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+0cedf280-9a54-5b02-a2a4-211f744369a4	chr2:g.63056085C>T	OTX1 H278=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+0d88f861-3009-5e66-bec5-8853a4a5d570	chr2:g.63055788G>A	OTX1 P179=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+0f5ba808-70f5-56e4-8ccb-2fb550dd9c82	chr2:g.63056295A>T	OTX1 S348=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+18ee94c0-1629-5a7d-b611-f298d28f8117	chr2:g.63056098C>A	OTX1 H283N	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.37	benign	0.018
+19523c75-73dc-5bc1-be06-d53f6e5ecde0	chr2:g.63055894G>A	OTX1 A215T	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.44	benign	0.003
+19698564-0a9b-50f9-ade6-45a302d3c995	chr2:g.63056260_63056261insC	OTX1 D339Rfs*6	Insertion	Frameshift	1	2853	0.04	1	17075	0.01	HIGH				
+1a31de0e-c358-5300-8ea9-c7f1414489f8	chr2:g.63055875C>T	OTX1 R208=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+1a726883-0925-5b20-a9ef-1282434509ae	chr2:g.63054117C>A	OTX1 L56=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+1aa556b0-7425-5449-92ec-eb46491d89d8	chr2:g.63055997G>T	OTX1 S249I	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.597
+1fa795eb-4da6-5f05-a80f-9c005726fdff	chr2:g.63056202G>T	OTX1 L317F	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.01	probably_damaging	0.935
+221976a1-96bf-54f9-9553-be4e5ff79d7d	chr2:g.63055638G>A	OTX1 P129=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+2460140e-de48-5c6e-90c4-ecc25b2a8632	chr2:g.63055699G>A	OTX1 A150T	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.53	benign	0.0
+2c647a21-8ff6-589c-9c28-44723095675e	chr2:g.63055598G>A	OTX1 R116Q	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.07	possibly_damaging	0.884
+2c79433b-3439-5125-8663-1fd70c2d59a9	chr2:g.63055827G>A	OTX1 S192=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+2d8c278f-4ec6-51e6-aa05-e8eb6b781abe	chr2:g.63053074C>A	OTX1 S28=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+2e06c82b-2f3a-54c6-a0e4-da678c0b4711	chr2:g.63055818G>A	OTX1 A189=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+2e625e82-5d87-5b11-b765-ac36eff28bc8	chr2:g.63055613C>T	OTX1 S121F	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.979
+2ea7c130-12a0-58f1-83ce-24140dbc343f	chr2:g.63055983C>T	OTX1 G244=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+3075bb37-f833-56ed-96a4-ba459b525b17	chr2:g.63053040T>G	OTX1 L17R	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	benign	0.436
+3272d531-089e-5761-9f54-10552d52d472	chr2:g.63055847C>T	OTX1 A199V	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.25	benign	0.033
+33b65373-b2c9-526f-9a59-0e469d1a1d8c	chr2:g.63056310_63056311insT	OTX1 L354Ffs*98	Insertion	Frameshift	1	2853	0.04	1	17075	0.01	HIGH				
+34648e95-1d9c-5845-9b46-aa317b0f933c	chr2:g.63056106G>A	OTX1 P285=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+3533b2ab-5c72-5797-801b-ebb932c72309	chr2:g.63055623T>C	OTX1 S124=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+3a0a2d80-9f6b-5e9f-a06c-ecb2175de745	chr2:g.63055874G>A	OTX1 R208H	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.01	probably_damaging	0.954
+3adbe606-7126-5568-8490-2357291e7513	chr2:g.63055549G>A	OTX1 G100R	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.04	benign	0.056
+3b2353d3-ce39-5c4f-ac4f-ab3c59062ec0	chr2:g.63056060C>T	OTX1 S270F	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.05	possibly_damaging	0.69
+3cb1400b-f3bb-58d7-8ab8-65aacb44697f	chr2:g.63055707A>T	OTX1 A152=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+3d4b3230-d430-5267-ac92-90fc2ac3e8de	chr2:g.63055915C>A	OTX1 P222T	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.886
+3f1153cc-830a-5b18-904f-ecda00c37ce3	chr2:g.63055953C>A	OTX1 G234=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+40128e43-e56f-50ac-8c03-73c98277e8d9	chr2:g.63056237C>T	OTX1 S329F	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.962
+407766b4-1e3b-503e-b2d1-8926fe2386c4	chr2:g.63053088G>T	OTX1 X33_splice	Substitution	Splice Donor	1	2853	0.04	1	17075	0.01	HIGH				
+40959864-baf2-5416-bc3d-060a427b316a	chr2:g.63054191G>C	OTX1 R81T	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+40af7dd1-33fe-5943-858a-ab57a239ae7e	chr2:g.63055811C>T	OTX1 A187V	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.29	benign	0.033
+4276d1a7-9b64-54eb-aa9b-1efdd214f7fc	chr2:g.63055562delAG	OTX1 S105Pfs*35	Deletion	Frameshift	1	2853	0.04	1	17075	0.01	HIGH				
+4888a929-9822-50bf-84bc-d7c92ac10f4f	chr2:g.63055689C>T	OTX1 S146=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+49ef86e3-0eb4-59c6-a814-fc1ee41edd9c	chr2:g.63054171G>C	OTX1 K74N	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+4c23e70c-a309-503f-95b0-ccebd90f8833	chr2:g.63056290G>A	OTX1 A347T	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.24	benign	0.045
+4c932642-e621-5968-b2fe-fbcefdb8bdc7	chr2:g.63052979C>A	OTX1	Substitution	5 Prime Utr	1	2853	0.04	1	17075	0.01	MODIFIER				
+4ce0374a-fd46-5477-9f31-e35dd23b9207	chr2:g.63052997T>G	OTX1 S3A	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.5	benign	0.235
+4dae2dfb-9c48-5833-a60b-4f2ee1ac15a6	chr2:g.63056218G>T	OTX1 G323C	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.09	benign	0.258
+51207329-7b0c-5df3-9cb9-b95a0c2ec007	chr2:g.63056269T>G	OTX1 C340G	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.02	probably_damaging	0.969
+51937ea3-018e-5325-9bb8-50b5ec751111	chr2:g.63056096C>T	OTX1 A282V	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.06	benign	0.0
+51ddce9a-792e-57a2-baa6-5da2e97b21c7	chr2:g.63056192C>T	OTX1 A314V	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.31	benign	0.007
+52607b63-013c-5b3a-9174-d669e4e29536	chr2:g.63055863G>A	OTX1 S204=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+53dfda52-a6ed-5e08-8d6b-1d208b35f7ae	chr2:g.63055714G>T	OTX1 A155S	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.76	benign	0.015
+543d3440-91be-505a-8881-3c4fb8837a99	chr2:g.63053050C>T	OTX1 P20=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+5450c90f-44a3-50ac-92c2-b466ded12dad	chr2:g.63055831C>T	OTX1 P194S	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.09	benign	0.061
+54b564aa-f7bf-5fff-a605-12c60e694abc	chr2:g.63054065G>A	OTX1 R39Q	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+57ea9fdf-9673-507b-80c6-bbdbd7a4459d	chr2:g.63055529G>C	OTX1 C93S	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.636
+5a3ce081-547e-517e-8db5-417a832d599b	chr2:g.63057533A>G	OTX1	Substitution	3 Prime Utr	1	2853	0.04	1	17075	0.01	MODIFIER				
+5ac6d506-99d7-5f5d-a5f2-ce4ce85dfd1b	chr2:g.63056318C>T	OTX1	Substitution	3 Prime Utr	1	2853	0.04	1	17075	0.01	MODIFIER				
+6152b999-ffed-5931-85d1-5315655a912f	chr2:g.63056284G>A	OTX1 D345N	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.01	benign	0.414
+61caa037-67c0-5f8c-b348-9fb23678e1ca	chr2:g.63054046G>T	OTX1 X33_splice	Substitution	Splice Acceptor	1	2853	0.04	1	17075	0.01	HIGH				
+6294c048-5b94-57b1-9f86-96b12ef009d6	chr2:g.63055682G>A	OTX1 S144N	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.17	benign	0.0
+651cba20-0f17-5a36-bafb-6441e420ea28	chr2:g.63055593A>G	OTX1 P114=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+6a8b42e3-2d7b-5010-b23b-4a2765a79848	chr2:g.63054126G>T	OTX1 K59N	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+6b652551-03aa-55fb-b489-89263b40f305	chr2:g.63055595T>A	OTX1 V115E	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.09	possibly_damaging	0.474
+6d9c820a-5060-5a79-9a65-cc93f0b641b7	chr2:g.63056002T>C	OTX1 Y251H	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.997
+728718bb-4427-522b-8371-a160a3268007	chr2:g.63056219G>T	OTX1 G323V	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.15	benign	0.018
+72b5d28b-9c09-5408-a14b-75ccdac0bd84	chr2:g.63056224G>A	OTX1 A325T	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.64	benign	0.0
+741b2178-00f4-564e-b15e-e859f0b025a1	chr2:g.63056010G>A	OTX1 A253=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+773c5c73-f73a-563c-ae55-fdadb971ccd8	chr2:g.63055624G>A	OTX1 G125S	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.1	probably_damaging	0.986
+78146a5f-f1cb-5193-bf64-6c47fd4294ed	chr2:g.63056221G>A	OTX1 A324T	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.04	benign	0.418
+7841bd0c-03fb-5050-883c-73269e36edbb	chr2:g.63053979G>A	OTX1	Substitution	Intron	1	2853	0.04	1	17075	0.01	MODIFIER				
+7adbe597-3387-52ea-860c-7e37a66ba711	chr2:g.63055935C>T	OTX1 G228=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+7b47925c-300a-5b48-9eb3-ecb918ad4e7d	chr2:g.63056167G>T	OTX1 G306C	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.01	benign	0.21
+7cd9afae-4429-5632-b9ae-b1370040bbbd	chr2:g.63053047G>T	OTX1 G19=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+7e779c8d-95ec-5718-b695-9dfd1580c0ba	chr2:g.63056105C>T	OTX1 P285L	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.01	benign	0.15
+7f74780a-ea70-5ca5-9391-638d9a7e5cc8	chr2:g.63055551G>T	OTX1 G100=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+80f70e6e-e7a8-52d5-a000-e817a10d1d46	chr2:g.63055745C>T	OTX1 A165V	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.9	benign	0.007
+8104b7d2-d913-5c86-82ae-043e646c6c26	chr2:g.63056053G>C	OTX1 A268P	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.13	benign	0.273
+84b74ddc-ea8c-5e57-a4fc-37f597158e6e	chr2:g.63056194G>A	OTX1 D315N	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	benign	0.053
+85b3dad4-13e8-5ded-a4da-09e2e814b45e	chr2:g.63055635G>A	OTX1 T128=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+89d5922f-b3e1-5c32-8516-58552e54aa13	chr2:g.63055516C>T	OTX1 R89C	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+8c507a55-0baf-506d-ae20-123fed0aac49	chr2:g.63052998C>A	OTX1 S3Y	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.963
+8d866375-4e07-5583-b291-de15aa4e94db	chr2:g.63055965C>T	OTX1 P238=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+90bebe58-af55-590d-a457-61e73e2a72fd	chr2:g.63054182C>T	OTX1 P78L	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.02	probably_damaging	0.998
+921ce96f-0896-5dd2-9030-9ab62336ea06	chr2:g.63054109G>A	OTX1 E54K	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+92d61601-16e1-5f10-83dd-00591191a1d9	chr2:g.63055784G>A	OTX1 S178N	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.03	probably_damaging	0.95
+9ae11401-3658-594c-bce4-44a470ba771b	chr2:g.63053034T>A	OTX1 L15Q	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.945
+9ba1b3dc-a896-5048-8432-6477c53f18c0	chr2:g.63055951G>T	OTX1 G234C	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.984
+9db6c152-df94-51a7-82c1-b7c7c2c04216	chr2:g.63052966delG	OTX1	Deletion	5 Prime Utr	1	2853	0.04	1	17075	0.01	MODIFIER				
+a27a6396-2e35-5d87-a56f-ac43ca78c838	chr2:g.63055578G>A	OTX1 K109=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+a7c8318d-7e76-5b74-9c69-b38f06d9d1bb	chr2:g.63055926C>T	OTX1 Y225=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+a897ef1a-a481-5d66-be4d-3c9e114eed04	chr2:g.63056196C>G	OTX1 D315E	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.05	benign	0.0
+ae913171-c907-571d-a35f-4c06e87f718e	chr2:g.63055796T>C	OTX1 I182T	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.01	probably_damaging	0.954
+aed6760c-aae6-5b2f-b852-0bbd5f78897d	chr2:g.63055529G>A	OTX1 C93Y	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.574
+b38ec7d6-31a0-5ac3-814c-eba00918ed83	chr2:g.63056166T>A	OTX1 G305=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+b696e782-c999-5a03-8a6b-4d5971d006eb	chr2:g.63055679C>G	OTX1 S143C	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.05	possibly_damaging	0.7
+bbb26030-362f-5831-b8ee-b24e4c3499c5	chr2:g.63053005C>T	OTX1 L5=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+bbde7f5f-8195-59de-84ed-82f8c139b831	chr2:g.63056143C>A	OTX1 H298N	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.38	possibly_damaging	0.775
+c1ecb4da-1764-58ec-8952-1c03f82838f1	chr2:g.63055794_63055795insA	OTX1 I182Nfs*20	Insertion	Frameshift	1	2853	0.04	1	17075	0.01	HIGH				
+c4365c0c-81c9-5ba1-a54b-51e54a225f64	chr2:g.63053046G>T	OTX1 G19V	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.01	benign	0.416
+c9e46948-c943-5c21-9556-4d47b8eb7c45	chr2:g.63054164C>T	OTX1 A72V	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+cadfe013-efde-5747-b79c-5a6d08c607c3	chr2:g.63056142C>T	OTX1 H297=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+ce99a6d9-66a1-51c0-a676-9bca796d2940	chr2:g.63055685C>T	OTX1 S145F	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.03	benign	0.003
+d01b0d0a-2b4c-5e4a-900c-536dfa2a410f	chr2:g.63053086G>A	OTX1 P32=	Substitution	Splice Region	1	2853	0.04	1	17075	0.01	LOW				
+d08aac85-2355-556a-9e13-e667894e0569	chr2:g.63057491A>G	OTX1	Substitution	3 Prime Utr	1	2853	0.04	1	17075	0.01	MODIFIER				
+d2b23e1f-703a-5852-b718-bde2625be2b7	chr2:g.63057198C>T	OTX1	Substitution	3 Prime Utr	1	2853	0.04	1	17075	0.01	MODIFIER				
+d35440bc-eee2-5b79-bc46-f64c811dc2d9	chr2:g.63056060C>G	OTX1 S270C	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.04	possibly_damaging	0.75
+d4cbab29-69cd-5485-94f9-4cb7539ba626	chr2:g.63055618A>C	OTX1 S123R	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.02	benign	0.0
+d597226d-a981-5d6f-b61a-ca6ffbdf1054	chr2:g.63056064C>A	OTX1 S271=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+d5ebf853-81f7-55c9-bffc-f1a37c185f28	chr2:g.63053057G>T	OTX1 D23Y	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.995
+d86eba51-046a-5f17-b40d-441ee2b4dcf2	chr2:g.63054101A>G	OTX1 D51G	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.02	probably_damaging	0.992
+da7e805d-692d-5877-8ffe-616962edcad7	chr2:g.63054144C>G	OTX1 I65M	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+df1712ec-7cf9-54d3-91f9-b08c86d5e08f	chr2:g.63054183G>A	OTX1 P78=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+e19044ff-8a04-520f-8f41-2240861f653e	chr2:g.63055945G>A	OTX1 G232S	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	1.0	benign	0.003
+e2915535-efc8-5f73-a3ae-14b727b49653	chr2:g.63055963C>T	OTX1 P238S	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.77	benign	0.003
+e29a2662-b0c3-5604-babc-de3d7dc1465f	chr2:g.63054108C>T	OTX1 L53=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+e61ffd70-6191-5e05-a10f-1cce149bb416	chr2:g.63055509C>G	OTX1 F86L	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.838
+e8b8d547-0b15-5011-a167-a8a74412b9cc	chr2:g.63056097G>A	OTX1 A282=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+ef8544a1-ac64-5a8d-b88d-3b3732c0ec0c	chr2:g.63056301G>T	OTX1 R350=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+f077bfe9-6421-52c0-9a1d-1bcf476959d1	chr2:g.63056220C>T	OTX1 G323=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+f45f68aa-f30c-5441-97f3-9bbb908ef7ee	chr2:g.63055752G>A	OTX1 S167=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+f4e21c1f-c69c-55ef-9690-6aeb9e44c12f	chr2:g.63055501G>T	OTX1 V84F	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+f531f7cd-89d5-591e-bfae-2cbcff8f0a9d	chr2:g.63055822G>A	OTX1 V191M	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.22	benign	0.317
+f7b121fa-cec3-5d7a-b650-7bd71d736afe	chr2:g.63055824G>C	OTX1 V191=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+f8a716be-8717-5e82-b57c-e6eed13cfe7f	chr2:g.63055800G>C	OTX1 S183=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+fbdc6899-d883-5b97-8cfb-b6d864234881	chr2:g.63054057G>A	OTX1 R36=	Substitution	Synonymous	1	2853	0.04	1	17075	0.01	LOW				
+fd2654cf-0c32-5171-a2a9-7128992608c2	chr2:g.63055907C>A	OTX1 A219D	Substitution	Missense	1	2853	0.04	1	17075	0.01	MODERATE	tolerated	0.19	benign	0.273
